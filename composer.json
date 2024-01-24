@@ -1,0 +1,16 @@
+{
+    "name": "zeno/test",
+    "description": "test package",
+    "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZenoVisibleOne",
+            "email": "zeno@visibleone.com"
+        }
+    ],
+    "require": {}
+}
