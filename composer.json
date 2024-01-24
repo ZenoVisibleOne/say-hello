@@ -1,5 +1,6 @@
 {
-    "name": "zeno/test",
+    "name": "ZenoVisibleOne/say-hello",
+    "version": "1.0.0",
     "description": "test package",
     "autoload": {
         "psr-4": {
